@@ -33,6 +33,3 @@ python nomina.py
 Pruebas
 
 El sistema incluye pruebas usando assert.
-
-
-Abel Brieva
