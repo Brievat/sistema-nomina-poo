@@ -1,18 +1,17 @@
 # sistema-nomina-poo
-# Sistema de Nómina en Python
 
 Descripción
 
 Este proyecto consiste en el desarrollo de un sistema de nómina utilizando programación orientada a objetos (POO).
 
-Tipos de empleados
+# Tipos de empleados
 
 * Empleado Asalariado
 * Empleado por Horas
 * Empleado por Comisión
 * Empleado Temporal
 
-Funcionalidades
+# Funcionalidades
 
 * Cálculo de salario bruto
 * Aplicación de deducciones (4%)
@@ -20,16 +19,16 @@ Funcionalidades
 * Validaciones de datos
 * Pruebas unitarias
 
-Tecnologías usadas
+# Tecnologías usadas
 
 * Python
 * Programación Orientada a Objetos
 
-Ejecución
+# Ejecución
 
 Ejecutar el archivo con:
-python nomina.py
+Nomina.py
 
-Pruebas
+# Pruebas
 
 El sistema incluye pruebas usando assert.
